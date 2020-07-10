@@ -1,0 +1,17 @@
+C:\Users\ADMIN\Desktop\Huy Hiệu\Module 2\Bài tập James\Bai6\bin\Debug\netcoreapp3.1\Bai5.exe
+C:\Users\ADMIN\Desktop\Huy Hiệu\Module 2\Bài tập James\Bai6\bin\Debug\netcoreapp3.1\Bai6.exe
+C:\Users\ADMIN\Desktop\Huy Hiệu\Module 2\Bài tập James\Bai6\bin\Debug\netcoreapp3.1\Bai6.deps.json
+C:\Users\ADMIN\Desktop\Huy Hiệu\Module 2\Bài tập James\Bai6\bin\Debug\netcoreapp3.1\Bai6.runtimeconfig.json
+C:\Users\ADMIN\Desktop\Huy Hiệu\Module 2\Bài tập James\Bai6\bin\Debug\netcoreapp3.1\Bai6.runtimeconfig.dev.json
+C:\Users\ADMIN\Desktop\Huy Hiệu\Module 2\Bài tập James\Bai6\bin\Debug\netcoreapp3.1\Bai6.dll
+C:\Users\ADMIN\Desktop\Huy Hiệu\Module 2\Bài tập James\Bai6\bin\Debug\netcoreapp3.1\Bai6.pdb
+C:\Users\ADMIN\Desktop\Huy Hiệu\Module 2\Bài tập James\Bai6\bin\Debug\netcoreapp3.1\Bai5.dll
+C:\Users\ADMIN\Desktop\Huy Hiệu\Module 2\Bài tập James\Bai6\bin\Debug\netcoreapp3.1\Bai5.pdb
+C:\Users\ADMIN\Desktop\Huy Hiệu\Module 2\Bài tập James\Bai6\obj\Debug\netcoreapp3.1\Bai6.csprojAssemblyReference.cache
+C:\Users\ADMIN\Desktop\Huy Hiệu\Module 2\Bài tập James\Bai6\obj\Debug\netcoreapp3.1\Bai6.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\Huy Hiệu\Module 2\Bài tập James\Bai6\obj\Debug\netcoreapp3.1\Bai6.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\Huy Hiệu\Module 2\Bài tập James\Bai6\obj\Debug\netcoreapp3.1\Bai6.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\Huy Hiệu\Module 2\Bài tập James\Bai6\obj\Debug\netcoreapp3.1\Bai6.csproj.CopyComplete
+C:\Users\ADMIN\Desktop\Huy Hiệu\Module 2\Bài tập James\Bai6\obj\Debug\netcoreapp3.1\Bai6.dll
+C:\Users\ADMIN\Desktop\Huy Hiệu\Module 2\Bài tập James\Bai6\obj\Debug\netcoreapp3.1\Bai6.pdb
+C:\Users\ADMIN\Desktop\Huy Hiệu\Module 2\Bài tập James\Bai6\obj\Debug\netcoreapp3.1\Bai6.genruntimeconfig.cache
