@@ -1,0 +1,13 @@
+C:\Users\ADMIN\Desktop\Huy Hiệu\Module 2\Bài tập James\Bai9.Collection\bin\Debug\netcoreapp3.1\Bai9.Collection.exe
+C:\Users\ADMIN\Desktop\Huy Hiệu\Module 2\Bài tập James\Bai9.Collection\bin\Debug\netcoreapp3.1\Bai9.Collection.deps.json
+C:\Users\ADMIN\Desktop\Huy Hiệu\Module 2\Bài tập James\Bai9.Collection\bin\Debug\netcoreapp3.1\Bai9.Collection.runtimeconfig.json
+C:\Users\ADMIN\Desktop\Huy Hiệu\Module 2\Bài tập James\Bai9.Collection\bin\Debug\netcoreapp3.1\Bai9.Collection.runtimeconfig.dev.json
+C:\Users\ADMIN\Desktop\Huy Hiệu\Module 2\Bài tập James\Bai9.Collection\bin\Debug\netcoreapp3.1\Bai9.Collection.dll
+C:\Users\ADMIN\Desktop\Huy Hiệu\Module 2\Bài tập James\Bai9.Collection\bin\Debug\netcoreapp3.1\Bai9.Collection.pdb
+C:\Users\ADMIN\Desktop\Huy Hiệu\Module 2\Bài tập James\Bai9.Collection\obj\Debug\netcoreapp3.1\Bai9.Collection.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\Huy Hiệu\Module 2\Bài tập James\Bai9.Collection\obj\Debug\netcoreapp3.1\Bai9.Collection.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\Huy Hiệu\Module 2\Bài tập James\Bai9.Collection\obj\Debug\netcoreapp3.1\Bai9.Collection.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\Huy Hiệu\Module 2\Bài tập James\Bai9.Collection\obj\Debug\netcoreapp3.1\Bai9.Collection.dll
+C:\Users\ADMIN\Desktop\Huy Hiệu\Module 2\Bài tập James\Bai9.Collection\obj\Debug\netcoreapp3.1\Bai9.Collection.pdb
+C:\Users\ADMIN\Desktop\Huy Hiệu\Module 2\Bài tập James\Bai9.Collection\obj\Debug\netcoreapp3.1\Bai9.Collection.genruntimeconfig.cache
+C:\Users\ADMIN\Desktop\Huy Hiệu\Module 2\Bài tập James\Bai9.Collection\obj\Debug\netcoreapp3.1\Bai9.Collection.csprojAssemblyReference.cache

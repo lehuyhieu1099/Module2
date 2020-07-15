@@ -1,0 +1,17 @@
+C:\Users\ADMIN\Desktop\Huy Hiệu\Module 2\Bài tập James\Bai8\bin\Debug\netcoreapp3.1\Bai8.exe
+C:\Users\ADMIN\Desktop\Huy Hiệu\Module 2\Bài tập James\Bai8\bin\Debug\netcoreapp3.1\Bai8.deps.json
+C:\Users\ADMIN\Desktop\Huy Hiệu\Module 2\Bài tập James\Bai8\bin\Debug\netcoreapp3.1\Bai8.runtimeconfig.json
+C:\Users\ADMIN\Desktop\Huy Hiệu\Module 2\Bài tập James\Bai8\bin\Debug\netcoreapp3.1\Bai8.runtimeconfig.dev.json
+C:\Users\ADMIN\Desktop\Huy Hiệu\Module 2\Bài tập James\Bai8\bin\Debug\netcoreapp3.1\Bai8.dll
+C:\Users\ADMIN\Desktop\Huy Hiệu\Module 2\Bài tập James\Bai8\bin\Debug\netcoreapp3.1\Bai8.pdb
+C:\Users\ADMIN\Desktop\Huy Hiệu\Module 2\Bài tập James\Bai8\obj\Debug\netcoreapp3.1\Bai8.csprojAssemblyReference.cache
+C:\Users\ADMIN\Desktop\Huy Hiệu\Module 2\Bài tập James\Bai8\obj\Debug\netcoreapp3.1\Bai8.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\Huy Hiệu\Module 2\Bài tập James\Bai8\obj\Debug\netcoreapp3.1\Bai8.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\Huy Hiệu\Module 2\Bài tập James\Bai8\obj\Debug\netcoreapp3.1\Bai8.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\Huy Hiệu\Module 2\Bài tập James\Bai8\obj\Debug\netcoreapp3.1\Bai8.dll
+C:\Users\ADMIN\Desktop\Huy Hiệu\Module 2\Bài tập James\Bai8\obj\Debug\netcoreapp3.1\Bai8.pdb
+C:\Users\ADMIN\Desktop\Huy Hiệu\Module 2\Bài tập James\Bai8\obj\Debug\netcoreapp3.1\Bai8.genruntimeconfig.cache
+C:\Users\ADMIN\Desktop\Huy Hiệu\Module 2\Bài tập James\Bai8\bin\Debug\netcoreapp3.1\bai1.exe
+C:\Users\ADMIN\Desktop\Huy Hiệu\Module 2\Bài tập James\Bai8\bin\Debug\netcoreapp3.1\bai1.dll
+C:\Users\ADMIN\Desktop\Huy Hiệu\Module 2\Bài tập James\Bai8\bin\Debug\netcoreapp3.1\bai1.pdb
+C:\Users\ADMIN\Desktop\Huy Hiệu\Module 2\Bài tập James\Bai8\obj\Debug\netcoreapp3.1\Bai8.csproj.CopyComplete
