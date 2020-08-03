@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "b2 Array and Method/1.0.0": {
+        "runtime": {
+          "b2 Array and Method.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "b2 Array and Method/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

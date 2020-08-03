@@ -1,0 +1,17 @@
+C:\Users\ADMIN\Desktop\Huy Hiệu\Module 2\Bài tập James\Bai8\bin\Debug\netcoreapp3.1\b1NET Core and C Sharp.exe
+C:\Users\ADMIN\Desktop\Huy Hiệu\Module 2\Bài tập James\Bai8\bin\Debug\netcoreapp3.1\b8 Kiểm thử TDD.exe
+C:\Users\ADMIN\Desktop\Huy Hiệu\Module 2\Bài tập James\Bai8\bin\Debug\netcoreapp3.1\b8 Kiểm thử TDD.deps.json
+C:\Users\ADMIN\Desktop\Huy Hiệu\Module 2\Bài tập James\Bai8\bin\Debug\netcoreapp3.1\b8 Kiểm thử TDD.runtimeconfig.json
+C:\Users\ADMIN\Desktop\Huy Hiệu\Module 2\Bài tập James\Bai8\bin\Debug\netcoreapp3.1\b8 Kiểm thử TDD.runtimeconfig.dev.json
+C:\Users\ADMIN\Desktop\Huy Hiệu\Module 2\Bài tập James\Bai8\bin\Debug\netcoreapp3.1\b8 Kiểm thử TDD.dll
+C:\Users\ADMIN\Desktop\Huy Hiệu\Module 2\Bài tập James\Bai8\bin\Debug\netcoreapp3.1\b8 Kiểm thử TDD.pdb
+C:\Users\ADMIN\Desktop\Huy Hiệu\Module 2\Bài tập James\Bai8\bin\Debug\netcoreapp3.1\b1NET Core and C Sharp.dll
+C:\Users\ADMIN\Desktop\Huy Hiệu\Module 2\Bài tập James\Bai8\bin\Debug\netcoreapp3.1\b1NET Core and C Sharp.pdb
+C:\Users\ADMIN\Desktop\Huy Hiệu\Module 2\Bài tập James\Bai8\obj\Debug\netcoreapp3.1\b8 Kiểm thử TDD.csprojAssemblyReference.cache
+C:\Users\ADMIN\Desktop\Huy Hiệu\Module 2\Bài tập James\Bai8\obj\Debug\netcoreapp3.1\b8 Kiểm thử TDD.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\Huy Hiệu\Module 2\Bài tập James\Bai8\obj\Debug\netcoreapp3.1\b8 Kiểm thử TDD.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\Huy Hiệu\Module 2\Bài tập James\Bai8\obj\Debug\netcoreapp3.1\b8 Kiểm thử TDD.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\Huy Hiệu\Module 2\Bài tập James\Bai8\obj\Debug\netcoreapp3.1\b8 Kiểm thử TDD.csproj.CopyComplete
+C:\Users\ADMIN\Desktop\Huy Hiệu\Module 2\Bài tập James\Bai8\obj\Debug\netcoreapp3.1\b8 Kiểm thử TDD.dll
+C:\Users\ADMIN\Desktop\Huy Hiệu\Module 2\Bài tập James\Bai8\obj\Debug\netcoreapp3.1\b8 Kiểm thử TDD.pdb
+C:\Users\ADMIN\Desktop\Huy Hiệu\Module 2\Bài tập James\Bai8\obj\Debug\netcoreapp3.1\b8 Kiểm thử TDD.genruntimeconfig.cache

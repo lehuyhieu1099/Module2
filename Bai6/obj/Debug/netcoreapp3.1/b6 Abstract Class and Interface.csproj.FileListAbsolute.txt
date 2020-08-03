@@ -1,0 +1,17 @@
+C:\Users\ADMIN\Desktop\Huy Hiệu\Module 2\Bài tập James\Bai6\bin\Debug\netcoreapp3.1\b5 Kế thừa.exe
+C:\Users\ADMIN\Desktop\Huy Hiệu\Module 2\Bài tập James\Bai6\bin\Debug\netcoreapp3.1\b6 Abstract Class and Interface.exe
+C:\Users\ADMIN\Desktop\Huy Hiệu\Module 2\Bài tập James\Bai6\bin\Debug\netcoreapp3.1\b6 Abstract Class and Interface.deps.json
+C:\Users\ADMIN\Desktop\Huy Hiệu\Module 2\Bài tập James\Bai6\bin\Debug\netcoreapp3.1\b6 Abstract Class and Interface.runtimeconfig.json
+C:\Users\ADMIN\Desktop\Huy Hiệu\Module 2\Bài tập James\Bai6\bin\Debug\netcoreapp3.1\b6 Abstract Class and Interface.runtimeconfig.dev.json
+C:\Users\ADMIN\Desktop\Huy Hiệu\Module 2\Bài tập James\Bai6\bin\Debug\netcoreapp3.1\b6 Abstract Class and Interface.dll
+C:\Users\ADMIN\Desktop\Huy Hiệu\Module 2\Bài tập James\Bai6\bin\Debug\netcoreapp3.1\b6 Abstract Class and Interface.pdb
+C:\Users\ADMIN\Desktop\Huy Hiệu\Module 2\Bài tập James\Bai6\bin\Debug\netcoreapp3.1\b5 Kế thừa.dll
+C:\Users\ADMIN\Desktop\Huy Hiệu\Module 2\Bài tập James\Bai6\bin\Debug\netcoreapp3.1\b5 Kế thừa.pdb
+C:\Users\ADMIN\Desktop\Huy Hiệu\Module 2\Bài tập James\Bai6\obj\Debug\netcoreapp3.1\b6 Abstract Class and Interface.csprojAssemblyReference.cache
+C:\Users\ADMIN\Desktop\Huy Hiệu\Module 2\Bài tập James\Bai6\obj\Debug\netcoreapp3.1\b6 Abstract Class and Interface.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\Huy Hiệu\Module 2\Bài tập James\Bai6\obj\Debug\netcoreapp3.1\b6 Abstract Class and Interface.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\Huy Hiệu\Module 2\Bài tập James\Bai6\obj\Debug\netcoreapp3.1\b6 Abstract Class and Interface.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\Huy Hiệu\Module 2\Bài tập James\Bai6\obj\Debug\netcoreapp3.1\b6 Abstract Class and Interface.csproj.CopyComplete
+C:\Users\ADMIN\Desktop\Huy Hiệu\Module 2\Bài tập James\Bai6\obj\Debug\netcoreapp3.1\b6 Abstract Class and Interface.dll
+C:\Users\ADMIN\Desktop\Huy Hiệu\Module 2\Bài tập James\Bai6\obj\Debug\netcoreapp3.1\b6 Abstract Class and Interface.pdb
+C:\Users\ADMIN\Desktop\Huy Hiệu\Module 2\Bài tập James\Bai6\obj\Debug\netcoreapp3.1\b6 Abstract Class and Interface.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\ADMIN\Desktop\Huy Hiệu\Module 2\Bài tập James\bai1\bin\Debug\netcoreapp3.1\b1NET Core and C Sharp.exe
+C:\Users\ADMIN\Desktop\Huy Hiệu\Module 2\Bài tập James\bai1\bin\Debug\netcoreapp3.1\b1NET Core and C Sharp.deps.json
+C:\Users\ADMIN\Desktop\Huy Hiệu\Module 2\Bài tập James\bai1\bin\Debug\netcoreapp3.1\b1NET Core and C Sharp.runtimeconfig.json
+C:\Users\ADMIN\Desktop\Huy Hiệu\Module 2\Bài tập James\bai1\bin\Debug\netcoreapp3.1\b1NET Core and C Sharp.runtimeconfig.dev.json
+C:\Users\ADMIN\Desktop\Huy Hiệu\Module 2\Bài tập James\bai1\bin\Debug\netcoreapp3.1\b1NET Core and C Sharp.dll
+C:\Users\ADMIN\Desktop\Huy Hiệu\Module 2\Bài tập James\bai1\bin\Debug\netcoreapp3.1\b1NET Core and C Sharp.pdb
+C:\Users\ADMIN\Desktop\Huy Hiệu\Module 2\Bài tập James\bai1\obj\Debug\netcoreapp3.1\b1NET Core and C Sharp.csprojAssemblyReference.cache
+C:\Users\ADMIN\Desktop\Huy Hiệu\Module 2\Bài tập James\bai1\obj\Debug\netcoreapp3.1\b1NET Core and C Sharp.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\Huy Hiệu\Module 2\Bài tập James\bai1\obj\Debug\netcoreapp3.1\b1NET Core and C Sharp.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\Huy Hiệu\Module 2\Bài tập James\bai1\obj\Debug\netcoreapp3.1\b1NET Core and C Sharp.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\Huy Hiệu\Module 2\Bài tập James\bai1\obj\Debug\netcoreapp3.1\b1NET Core and C Sharp.dll
+C:\Users\ADMIN\Desktop\Huy Hiệu\Module 2\Bài tập James\bai1\obj\Debug\netcoreapp3.1\b1NET Core and C Sharp.pdb
+C:\Users\ADMIN\Desktop\Huy Hiệu\Module 2\Bài tập James\bai1\obj\Debug\netcoreapp3.1\b1NET Core and C Sharp.genruntimeconfig.cache

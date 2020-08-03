@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Reflection.Metadata.Ecma335;
 using System.Text;
 
 namespace Bai3
@@ -21,8 +22,13 @@ namespace Bai3
     //}
     class PhuongTrinhBac2
     {
-        double a, b, c;
-        double delta;
+        private double a, b, c;
+        private double delta;
+        public double A { get => a; set => a = value; }
+        public double B { get => b; set => b = value; }
+        public double C { get => c; set => c = value; }
+        public double Delta{ get => delta; }
+
         public PhuongTrinhBac2()
         {
 
@@ -50,8 +56,8 @@ namespace Bai3
             if (delta > 0)
             {
                 Console.WriteLine("Has 2 roots: ");
-                Console.WriteLine($"x1 = {(-b + delta) / (2 * a)}");
-                Console.WriteLine($"x2 = {(-b - delta) / (2 * a)}");
+                Console.WriteLine($"x1 = {(-b + Math.Pow(delta,0.5)) / (2 * a)}");
+                Console.WriteLine($"x2 = {(-b - Math.Pow(delta, 0.5)) / (2 * a)}");
             }
         }
     }

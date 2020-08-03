@@ -1,0 +1,13 @@
+C:\Users\ADMIN\Desktop\Huy Hiệu\Module 2\Bài tập James\bai2\bin\Debug\netcoreapp3.1\b2 Array and Method.exe
+C:\Users\ADMIN\Desktop\Huy Hiệu\Module 2\Bài tập James\bai2\bin\Debug\netcoreapp3.1\b2 Array and Method.deps.json
+C:\Users\ADMIN\Desktop\Huy Hiệu\Module 2\Bài tập James\bai2\bin\Debug\netcoreapp3.1\b2 Array and Method.runtimeconfig.json
+C:\Users\ADMIN\Desktop\Huy Hiệu\Module 2\Bài tập James\bai2\bin\Debug\netcoreapp3.1\b2 Array and Method.runtimeconfig.dev.json
+C:\Users\ADMIN\Desktop\Huy Hiệu\Module 2\Bài tập James\bai2\bin\Debug\netcoreapp3.1\b2 Array and Method.dll
+C:\Users\ADMIN\Desktop\Huy Hiệu\Module 2\Bài tập James\bai2\bin\Debug\netcoreapp3.1\b2 Array and Method.pdb
+C:\Users\ADMIN\Desktop\Huy Hiệu\Module 2\Bài tập James\bai2\obj\Debug\netcoreapp3.1\b2 Array and Method.csprojAssemblyReference.cache
+C:\Users\ADMIN\Desktop\Huy Hiệu\Module 2\Bài tập James\bai2\obj\Debug\netcoreapp3.1\b2 Array and Method.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\Huy Hiệu\Module 2\Bài tập James\bai2\obj\Debug\netcoreapp3.1\b2 Array and Method.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\Huy Hiệu\Module 2\Bài tập James\bai2\obj\Debug\netcoreapp3.1\b2 Array and Method.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\Huy Hiệu\Module 2\Bài tập James\bai2\obj\Debug\netcoreapp3.1\b2 Array and Method.dll
+C:\Users\ADMIN\Desktop\Huy Hiệu\Module 2\Bài tập James\bai2\obj\Debug\netcoreapp3.1\b2 Array and Method.pdb
+C:\Users\ADMIN\Desktop\Huy Hiệu\Module 2\Bài tập James\bai2\obj\Debug\netcoreapp3.1\b2 Array and Method.genruntimeconfig.cache

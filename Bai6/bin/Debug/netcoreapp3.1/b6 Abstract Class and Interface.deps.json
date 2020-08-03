@@ -1,0 +1,33 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "b6 Abstract Class and Interface/1.0.0": {
+        "runtime": {
+          "b6 Abstract Class and Interface.dll": {}
+        }
+      },
+      "b5 Kế thừa/1.0.0": {
+        "runtime": {
+          "b5 Kế thừa.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "b6 Abstract Class and Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "b5 Kế thừa/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

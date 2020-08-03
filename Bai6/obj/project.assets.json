@@ -2,28 +2,28 @@
   "version": 3,
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "Bai5/1.0.0": {
+      "b5 Kế thừa/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "compile": {
-          "bin/placeholder/Bai5.dll": {}
+          "bin/placeholder/b5 Kế thừa.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Bai5.dll": {}
+          "bin/placeholder/b5 Kế thừa.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "Bai5/1.0.0": {
+    "b5 Kế thừa/1.0.0": {
       "type": "project",
-      "path": "../Bai5/Bai5.csproj",
-      "msbuildProject": "../Bai5/Bai5.csproj"
+      "path": "../Bai5/b5 Kế thừa.csproj",
+      "msbuildProject": "../Bai5/b5 Kế thừa.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "Bai5 >= 1.0.0"
+      "b5 Kế thừa >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ADMIN\\Desktop\\Huy Hiệu\\Module 2\\Bài tập James\\Bai6\\Bai6.csproj",
-      "projectName": "Bai6",
-      "projectPath": "C:\\Users\\ADMIN\\Desktop\\Huy Hiệu\\Module 2\\Bài tập James\\Bai6\\Bai6.csproj",
+      "projectUniqueName": "C:\\Users\\ADMIN\\Desktop\\HuyHieu\\Module 2\\Bài tập James\\Bai6\\b6 Abstract Class and Interface.csproj",
+      "projectName": "b6 Abstract Class and Interface",
+      "projectPath": "C:\\Users\\ADMIN\\Desktop\\HuyHieu\\Module 2\\Bài tập James\\Bai6\\b6 Abstract Class and Interface.csproj",
       "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ADMIN\\Desktop\\Huy Hiệu\\Module 2\\Bài tập James\\Bai6\\obj\\",
+      "outputPath": "C:\\Users\\ADMIN\\Desktop\\HuyHieu\\Module 2\\Bài tập James\\Bai6\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -52,8 +52,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\ADMIN\\Desktop\\Huy Hiệu\\Module 2\\Bài tập James\\Bai5\\Bai5.csproj": {
-              "projectPath": "C:\\Users\\ADMIN\\Desktop\\Huy Hiệu\\Module 2\\Bài tập James\\Bai5\\Bai5.csproj"
+            "C:\\Users\\ADMIN\\Desktop\\HuyHieu\\Module 2\\Bài tập James\\Bai5\\b5 Kế thừa.csproj": {
+              "projectPath": "C:\\Users\\ADMIN\\Desktop\\HuyHieu\\Module 2\\Bài tập James\\Bai5\\b5 Kế thừa.csproj"
             }
           }
         }

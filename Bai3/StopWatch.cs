@@ -10,13 +10,15 @@ namespace Bai3
     {
         private DateTime startTime;
         private DateTime endTime;
+        public DateTime StartTime { get; set; }
+        public DateTime EndTime { get; set; }
         public StopWatch()
         {
 
         }
         public StopWatch(DateTime startTime, DateTime endTime)
             {
-            this.startTime = startTime;
+            this.StartTime = startTime;
             this.endTime = endTime;
             }
         public void GetStartTime()
@@ -36,12 +38,9 @@ namespace Bai3
         }
         public void GetElapsedTime()
         {
-            TimeSpan elapsedTime = endTime.Subtract(startTime);
+            TimeSpan elapsedTime = endTime.Subtract(StartTime);
             Console.WriteLine($"interval from start to end {elapsedTime}");
 
         }
-
-
-
     }
 }

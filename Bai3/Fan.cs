@@ -16,6 +16,7 @@ namespace Bai3
         private double radius;
         private string color;
         public int Speed { get => speed; set => speed = value; }
+        
         public bool On { get => on; set => on = value; }
         public double Radius { get => radius; set => radius = value; }
         public string Color { get => color; set => color = value; }

@@ -4,12 +4,12 @@
     "C:\\Users\\ADMIN\\Desktop\\Huy Hiệu\\Module 2\\Bài tập James\\Bai6\\Bai6.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ADMIN\\Desktop\\Huy Hiệu\\Module 2\\Bài tập James\\Bai5\\Bai5.csproj": {
+    "C:\\Users\\ADMIN\\Desktop\\Huy Hiệu\\Module 2\\Bài tập James\\Bai5\\b5 Kế thừa.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ADMIN\\Desktop\\Huy Hiệu\\Module 2\\Bài tập James\\Bai5\\Bai5.csproj",
-        "projectName": "Bai5",
-        "projectPath": "C:\\Users\\ADMIN\\Desktop\\Huy Hiệu\\Module 2\\Bài tập James\\Bai5\\Bai5.csproj",
+        "projectUniqueName": "C:\\Users\\ADMIN\\Desktop\\Huy Hiệu\\Module 2\\Bài tập James\\Bai5\\b5 Kế thừa.csproj",
+        "projectName": "b5 Kế thừa",
+        "projectPath": "C:\\Users\\ADMIN\\Desktop\\Huy Hiệu\\Module 2\\Bài tập James\\Bai5\\b5 Kế thừa.csproj",
         "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\ADMIN\\Desktop\\Huy Hiệu\\Module 2\\Bài tập James\\Bai5\\obj\\",
         "projectStyle": "PackageReference",
@@ -79,8 +79,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\ADMIN\\Desktop\\Huy Hiệu\\Module 2\\Bài tập James\\Bai5\\Bai5.csproj": {
-                "projectPath": "C:\\Users\\ADMIN\\Desktop\\Huy Hiệu\\Module 2\\Bài tập James\\Bai5\\Bai5.csproj"
+              "C:\\Users\\ADMIN\\Desktop\\Huy Hiệu\\Module 2\\Bài tập James\\Bai5\\b5 Kế thừa.csproj": {
+                "projectPath": "C:\\Users\\ADMIN\\Desktop\\Huy Hiệu\\Module 2\\Bài tập James\\Bai5\\b5 Kế thừa.csproj"
               }
             }
           }

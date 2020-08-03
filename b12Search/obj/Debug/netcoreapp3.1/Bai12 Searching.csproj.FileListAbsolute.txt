@@ -1,0 +1,12 @@
+C:\Users\ADMIN\Desktop\HuyHieu\Module 2\Bài tập James\b12Search\bin\Debug\netcoreapp3.1\Bai12 Searching.exe
+C:\Users\ADMIN\Desktop\HuyHieu\Module 2\Bài tập James\b12Search\bin\Debug\netcoreapp3.1\Bai12 Searching.deps.json
+C:\Users\ADMIN\Desktop\HuyHieu\Module 2\Bài tập James\b12Search\bin\Debug\netcoreapp3.1\Bai12 Searching.runtimeconfig.json
+C:\Users\ADMIN\Desktop\HuyHieu\Module 2\Bài tập James\b12Search\bin\Debug\netcoreapp3.1\Bai12 Searching.runtimeconfig.dev.json
+C:\Users\ADMIN\Desktop\HuyHieu\Module 2\Bài tập James\b12Search\bin\Debug\netcoreapp3.1\Bai12 Searching.dll
+C:\Users\ADMIN\Desktop\HuyHieu\Module 2\Bài tập James\b12Search\bin\Debug\netcoreapp3.1\Bai12 Searching.pdb
+C:\Users\ADMIN\Desktop\HuyHieu\Module 2\Bài tập James\b12Search\obj\Debug\netcoreapp3.1\Bai12 Searching.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\HuyHieu\Module 2\Bài tập James\b12Search\obj\Debug\netcoreapp3.1\Bai12 Searching.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\HuyHieu\Module 2\Bài tập James\b12Search\obj\Debug\netcoreapp3.1\Bai12 Searching.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\HuyHieu\Module 2\Bài tập James\b12Search\obj\Debug\netcoreapp3.1\Bai12 Searching.dll
+C:\Users\ADMIN\Desktop\HuyHieu\Module 2\Bài tập James\b12Search\obj\Debug\netcoreapp3.1\Bai12 Searching.pdb
+C:\Users\ADMIN\Desktop\HuyHieu\Module 2\Bài tập James\b12Search\obj\Debug\netcoreapp3.1\Bai12 Searching.genruntimeconfig.cache

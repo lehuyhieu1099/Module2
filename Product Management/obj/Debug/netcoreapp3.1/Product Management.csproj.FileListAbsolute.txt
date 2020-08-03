@@ -1,0 +1,13 @@
+C:\Users\ADMIN\Desktop\Huy Hiệu\Module 2\Bài tập James\Product Management\bin\Debug\netcoreapp3.1\Product Management.exe
+C:\Users\ADMIN\Desktop\Huy Hiệu\Module 2\Bài tập James\Product Management\bin\Debug\netcoreapp3.1\Product Management.deps.json
+C:\Users\ADMIN\Desktop\Huy Hiệu\Module 2\Bài tập James\Product Management\bin\Debug\netcoreapp3.1\Product Management.runtimeconfig.json
+C:\Users\ADMIN\Desktop\Huy Hiệu\Module 2\Bài tập James\Product Management\bin\Debug\netcoreapp3.1\Product Management.runtimeconfig.dev.json
+C:\Users\ADMIN\Desktop\Huy Hiệu\Module 2\Bài tập James\Product Management\bin\Debug\netcoreapp3.1\Product Management.dll
+C:\Users\ADMIN\Desktop\Huy Hiệu\Module 2\Bài tập James\Product Management\bin\Debug\netcoreapp3.1\Product Management.pdb
+C:\Users\ADMIN\Desktop\Huy Hiệu\Module 2\Bài tập James\Product Management\obj\Debug\netcoreapp3.1\Product Management.csprojAssemblyReference.cache
+C:\Users\ADMIN\Desktop\Huy Hiệu\Module 2\Bài tập James\Product Management\obj\Debug\netcoreapp3.1\Product Management.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\Huy Hiệu\Module 2\Bài tập James\Product Management\obj\Debug\netcoreapp3.1\Product Management.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\Huy Hiệu\Module 2\Bài tập James\Product Management\obj\Debug\netcoreapp3.1\Product Management.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\Huy Hiệu\Module 2\Bài tập James\Product Management\obj\Debug\netcoreapp3.1\Product Management.dll
+C:\Users\ADMIN\Desktop\Huy Hiệu\Module 2\Bài tập James\Product Management\obj\Debug\netcoreapp3.1\Product Management.pdb
+C:\Users\ADMIN\Desktop\Huy Hiệu\Module 2\Bài tập James\Product Management\obj\Debug\netcoreapp3.1\Product Management.genruntimeconfig.cache

@@ -4,12 +4,10 @@ using System.Text;
 
 namespace bai1
 {
-    class docsothanhchu
+    public class Docsothanhchu
     {
-        public void doc() {
-            Console.WriteLine("Enter your number: ");
-
-            int number = Int32.Parse(Console.ReadLine());
+        public string doc(int number) {
+            
             string chuSo = "";
             string[] sonho = {"Khong", "Mot", "Hai", "Ba", "Bon", "Nam", "Sau", "Bay", "Tam", "Chin", "Muoi", "Muoi mot", "Muoi hai", "Muoi ba", "Muoi bon", "Muoi lam", "Muoi sau", "Muoi bay", "Muoi tam", "Muoi chin" };
             string[] hangchuc = { "Muoi", "Hai muoi", "Ba muoi", "Bon muoi", "Nam muoi", "Sau muoi", "Bay muoi", "Tam muoi", "Chin muoi" };
@@ -33,7 +31,7 @@ namespace bai1
                 number = number % 10;
                 chuSo += sonho[number];
             }
-            Console.WriteLine(chuSo);
+            return chuSo;
         }
     }
 }

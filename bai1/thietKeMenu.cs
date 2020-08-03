@@ -3,7 +3,7 @@ namespace bai1
 {
     public class thietKeMenu
     {
-        public void menu()
+        public void Menu()
         {
             int choice;
             Console.WriteLine("Menu");

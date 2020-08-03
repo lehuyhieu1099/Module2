@@ -1,0 +1,8 @@
+C:\Users\ADMIN\Desktop\Huy Hiệu\Module 2\Bài tập James\Bai11 NET Collections  Data Structures\obj\Debug\netcoreapp3.1\Bai11 NET Collections  Data Structures.csprojAssemblyReference.cache
+C:\Users\ADMIN\Desktop\Huy Hiệu\Module 2\Bài tập James\Bai11 NET Collections  Data Structures\obj\Debug\netcoreapp3.1\Bai11 NET Collections  Data Structures.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\Huy Hiệu\Module 2\Bài tập James\Bai11 NET Collections  Data Structures\obj\Debug\netcoreapp3.1\Bai11 NET Collections  Data Structures.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\Huy Hiệu\Module 2\Bài tập James\Bai11 NET Collections  Data Structures\obj\Debug\netcoreapp3.1\Bai11 NET Collections  Data Structures.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\HuyHiệu\Module 2\Bài tập James\Bai11 NET Collections  Data Structures\obj\Debug\netcoreapp3.1\Bai11 NET Collections  Data Structures.csprojAssemblyReference.cache
+C:\Users\ADMIN\Desktop\HuyHiệu\Module 2\Bài tập James\Bai11 NET Collections  Data Structures\obj\Debug\netcoreapp3.1\Bai11 NET Collections  Data Structures.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\HuyHiệu\Module 2\Bài tập James\Bai11 NET Collections  Data Structures\obj\Debug\netcoreapp3.1\Bai11 NET Collections  Data Structures.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\HuyHiệu\Module 2\Bài tập James\Bai11 NET Collections  Data Structures\obj\Debug\netcoreapp3.1\Bai11 NET Collections  Data Structures.csproj.CoreCompileInputs.cache

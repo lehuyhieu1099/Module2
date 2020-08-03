@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ADMIN\\Desktop\\Huy Hiệu\\Module 2\\Bài tập James\\Bai3\\Bai3.csproj",
-      "projectName": "Bai3",
-      "projectPath": "C:\\Users\\ADMIN\\Desktop\\Huy Hiệu\\Module 2\\Bài tập James\\Bai3\\Bai3.csproj",
+      "projectUniqueName": "C:\\Users\\ADMIN\\Desktop\\HuyHieu\\Module 2\\Bài tập James\\Bai3\\b3 Array and Object.csproj",
+      "projectName": "b3 Array and Object",
+      "projectPath": "C:\\Users\\ADMIN\\Desktop\\HuyHieu\\Module 2\\Bài tập James\\Bai3\\b3 Array and Object.csproj",
       "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ADMIN\\Desktop\\Huy Hiệu\\Module 2\\Bài tập James\\Bai3\\obj\\",
+      "outputPath": "C:\\Users\\ADMIN\\Desktop\\HuyHieu\\Module 2\\Bài tập James\\Bai3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",

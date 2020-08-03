@@ -1,0 +1,26 @@
+C:\Users\ADMIN\Desktop\Huy Hiệu\Module 2\Bài tập James\Bai4\bin\Debug\netcoreapp3.1\b4 Access modifier.exe
+C:\Users\ADMIN\Desktop\Huy Hiệu\Module 2\Bài tập James\Bai4\bin\Debug\netcoreapp3.1\b4 Access modifier.deps.json
+C:\Users\ADMIN\Desktop\Huy Hiệu\Module 2\Bài tập James\Bai4\bin\Debug\netcoreapp3.1\b4 Access modifier.runtimeconfig.json
+C:\Users\ADMIN\Desktop\Huy Hiệu\Module 2\Bài tập James\Bai4\bin\Debug\netcoreapp3.1\b4 Access modifier.runtimeconfig.dev.json
+C:\Users\ADMIN\Desktop\Huy Hiệu\Module 2\Bài tập James\Bai4\bin\Debug\netcoreapp3.1\b4 Access modifier.dll
+C:\Users\ADMIN\Desktop\Huy Hiệu\Module 2\Bài tập James\Bai4\bin\Debug\netcoreapp3.1\b4 Access modifier.pdb
+C:\Users\ADMIN\Desktop\Huy Hiệu\Module 2\Bài tập James\Bai4\obj\Debug\netcoreapp3.1\b4 Access modifier.csprojAssemblyReference.cache
+C:\Users\ADMIN\Desktop\Huy Hiệu\Module 2\Bài tập James\Bai4\obj\Debug\netcoreapp3.1\b4 Access modifier.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\Huy Hiệu\Module 2\Bài tập James\Bai4\obj\Debug\netcoreapp3.1\b4 Access modifier.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\Huy Hiệu\Module 2\Bài tập James\Bai4\obj\Debug\netcoreapp3.1\b4 Access modifier.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\Huy Hiệu\Module 2\Bài tập James\Bai4\obj\Debug\netcoreapp3.1\b4 Access modifier.dll
+C:\Users\ADMIN\Desktop\Huy Hiệu\Module 2\Bài tập James\Bai4\obj\Debug\netcoreapp3.1\b4 Access modifier.pdb
+C:\Users\ADMIN\Desktop\Huy Hiệu\Module 2\Bài tập James\Bai4\obj\Debug\netcoreapp3.1\b4 Access modifier.genruntimeconfig.cache
+C:\Users\ADMIN\Desktop\HuyHiệu\Module 2\Bài tập James\Bai4\bin\Debug\netcoreapp3.1\b4 Access modifier.exe
+C:\Users\ADMIN\Desktop\HuyHiệu\Module 2\Bài tập James\Bai4\bin\Debug\netcoreapp3.1\b4 Access modifier.deps.json
+C:\Users\ADMIN\Desktop\HuyHiệu\Module 2\Bài tập James\Bai4\bin\Debug\netcoreapp3.1\b4 Access modifier.runtimeconfig.json
+C:\Users\ADMIN\Desktop\HuyHiệu\Module 2\Bài tập James\Bai4\bin\Debug\netcoreapp3.1\b4 Access modifier.runtimeconfig.dev.json
+C:\Users\ADMIN\Desktop\HuyHiệu\Module 2\Bài tập James\Bai4\bin\Debug\netcoreapp3.1\b4 Access modifier.dll
+C:\Users\ADMIN\Desktop\HuyHiệu\Module 2\Bài tập James\Bai4\bin\Debug\netcoreapp3.1\b4 Access modifier.pdb
+C:\Users\ADMIN\Desktop\HuyHiệu\Module 2\Bài tập James\Bai4\obj\Debug\netcoreapp3.1\b4 Access modifier.csprojAssemblyReference.cache
+C:\Users\ADMIN\Desktop\HuyHiệu\Module 2\Bài tập James\Bai4\obj\Debug\netcoreapp3.1\b4 Access modifier.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\HuyHiệu\Module 2\Bài tập James\Bai4\obj\Debug\netcoreapp3.1\b4 Access modifier.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\HuyHiệu\Module 2\Bài tập James\Bai4\obj\Debug\netcoreapp3.1\b4 Access modifier.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\HuyHiệu\Module 2\Bài tập James\Bai4\obj\Debug\netcoreapp3.1\b4 Access modifier.dll
+C:\Users\ADMIN\Desktop\HuyHiệu\Module 2\Bài tập James\Bai4\obj\Debug\netcoreapp3.1\b4 Access modifier.pdb
+C:\Users\ADMIN\Desktop\HuyHiệu\Module 2\Bài tập James\Bai4\obj\Debug\netcoreapp3.1\b4 Access modifier.genruntimeconfig.cache

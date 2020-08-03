@@ -1,12 +1,12 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-  </PropertyGroup>
+     </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Bai5\Bai5.csproj" />
+    <ProjectReference Include="..\Bai4\b4 Access modifier.csproj" />
   </ItemGroup>
 
 </Project>
