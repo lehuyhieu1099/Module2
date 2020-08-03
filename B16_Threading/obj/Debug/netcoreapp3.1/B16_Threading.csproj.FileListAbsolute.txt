@@ -1,0 +1,13 @@
+C:\Users\ADMIN\Desktop\HuyHieu\Module 2\JamesExercise\B16_Threading\obj\Debug\netcoreapp3.1\B16_Threading.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\HuyHieu\Module 2\JamesExercise\B16_Threading\obj\Debug\netcoreapp3.1\B16_Threading.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\HuyHieu\Module 2\JamesExercise\B16_Threading\obj\Debug\netcoreapp3.1\B16_Threading.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\HuyHieu\Module 2\JamesExercise\B16_Threading\bin\Debug\netcoreapp3.1\B16_Threading.exe
+C:\Users\ADMIN\Desktop\HuyHieu\Module 2\JamesExercise\B16_Threading\bin\Debug\netcoreapp3.1\B16_Threading.deps.json
+C:\Users\ADMIN\Desktop\HuyHieu\Module 2\JamesExercise\B16_Threading\bin\Debug\netcoreapp3.1\B16_Threading.runtimeconfig.json
+C:\Users\ADMIN\Desktop\HuyHieu\Module 2\JamesExercise\B16_Threading\bin\Debug\netcoreapp3.1\B16_Threading.runtimeconfig.dev.json
+C:\Users\ADMIN\Desktop\HuyHieu\Module 2\JamesExercise\B16_Threading\bin\Debug\netcoreapp3.1\B16_Threading.dll
+C:\Users\ADMIN\Desktop\HuyHieu\Module 2\JamesExercise\B16_Threading\bin\Debug\netcoreapp3.1\B16_Threading.pdb
+C:\Users\ADMIN\Desktop\HuyHieu\Module 2\JamesExercise\B16_Threading\obj\Debug\netcoreapp3.1\B16_Threading.csprojAssemblyReference.cache
+C:\Users\ADMIN\Desktop\HuyHieu\Module 2\JamesExercise\B16_Threading\obj\Debug\netcoreapp3.1\B16_Threading.dll
+C:\Users\ADMIN\Desktop\HuyHieu\Module 2\JamesExercise\B16_Threading\obj\Debug\netcoreapp3.1\B16_Threading.pdb
+C:\Users\ADMIN\Desktop\HuyHieu\Module 2\JamesExercise\B16_Threading\obj\Debug\netcoreapp3.1\B16_Threading.genruntimeconfig.cache

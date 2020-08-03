@@ -41,6 +41,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B13_Sorting", "B13_Sorting\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B14_Errors_Exceptions", "B14_Errors_Exceptions\B14_Errors_Exceptions.csproj", "{5C597FD6-A326-4D92-92F9-64AF486A14E0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai15_ File_Serialization", "Bai15_ File_Serialization\Bai15_ File_Serialization.csproj", "{6511B5B9-A8B8-4757-9586-116F0AC15909}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B16_Threading", "B16_Threading\B16_Threading.csproj", "{25A63CF3-11BD-4766-82BC-256B6D94E811}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -119,6 +123,14 @@ Global
 		{5C597FD6-A326-4D92-92F9-64AF486A14E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5C597FD6-A326-4D92-92F9-64AF486A14E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5C597FD6-A326-4D92-92F9-64AF486A14E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6511B5B9-A8B8-4757-9586-116F0AC15909}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6511B5B9-A8B8-4757-9586-116F0AC15909}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6511B5B9-A8B8-4757-9586-116F0AC15909}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6511B5B9-A8B8-4757-9586-116F0AC15909}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25A63CF3-11BD-4766-82BC-256B6D94E811}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25A63CF3-11BD-4766-82BC-256B6D94E811}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25A63CF3-11BD-4766-82BC-256B6D94E811}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25A63CF3-11BD-4766-82BC-256B6D94E811}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
