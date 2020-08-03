@@ -35,7 +35,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Management", "Phần mềm 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bai11 NET Collections  Data Structures", "Bai11 NET Collections  Data Structures\Bai11 NET Collections  Data Structures.csproj", "{D3E05950-458B-469A-B671-9D21C23269C7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai12 Searching", "b12Search\Bai12 Searching.csproj", "{95480C59-7180-40CA-9B66-2BFD5A960B04}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai12_Searching", "b12Search\Bai12_Searching.csproj", "{95480C59-7180-40CA-9B66-2BFD5A960B04}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
