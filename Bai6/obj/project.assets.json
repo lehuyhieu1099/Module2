@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ADMIN\\Desktop\\HuyHieu\\Module 2\\Bài tập James\\Bai6\\b6 Abstract Class and Interface.csproj",
+      "projectUniqueName": "C:\\Users\\ADMIN\\Desktop\\HuyHieu\\Module 2\\JamesExercise\\Bai6\\b6 Abstract Class and Interface.csproj",
       "projectName": "b6 Abstract Class and Interface",
-      "projectPath": "C:\\Users\\ADMIN\\Desktop\\HuyHieu\\Module 2\\Bài tập James\\Bai6\\b6 Abstract Class and Interface.csproj",
+      "projectPath": "C:\\Users\\ADMIN\\Desktop\\HuyHieu\\Module 2\\JamesExercise\\Bai6\\b6 Abstract Class and Interface.csproj",
       "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ADMIN\\Desktop\\HuyHieu\\Module 2\\Bài tập James\\Bai6\\obj\\",
+      "outputPath": "C:\\Users\\ADMIN\\Desktop\\HuyHieu\\Module 2\\JamesExercise\\Bai6\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -52,8 +52,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\ADMIN\\Desktop\\HuyHieu\\Module 2\\Bài tập James\\Bai5\\b5 Kế thừa.csproj": {
-              "projectPath": "C:\\Users\\ADMIN\\Desktop\\HuyHieu\\Module 2\\Bài tập James\\Bai5\\b5 Kế thừa.csproj"
+            "C:\\Users\\ADMIN\\Desktop\\HuyHieu\\Module 2\\JamesExercise\\Bai5\\b5 Kế thừa.csproj": {
+              "projectPath": "C:\\Users\\ADMIN\\Desktop\\HuyHieu\\Module 2\\JamesExercise\\Bai5\\b5 Kế thừa.csproj"
             }
           }
         }

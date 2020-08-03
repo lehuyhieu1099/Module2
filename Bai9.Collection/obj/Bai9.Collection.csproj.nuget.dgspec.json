@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ADMIN\\Desktop\\HuyHieu\\Module 2\\Bài tập James\\Bai9.Collection\\Bai9.Collection.csproj": {}
+    "C:\\Users\\ADMIN\\Desktop\\HuyHieu\\Module 2\\JamesExercise\\Bai9.Collection\\Bai9.Collection.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ADMIN\\Desktop\\HuyHieu\\Module 2\\Bài tập James\\Bai9.Collection\\Bai9.Collection.csproj": {
+    "C:\\Users\\ADMIN\\Desktop\\HuyHieu\\Module 2\\JamesExercise\\Bai9.Collection\\Bai9.Collection.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ADMIN\\Desktop\\HuyHieu\\Module 2\\Bài tập James\\Bai9.Collection\\Bai9.Collection.csproj",
+        "projectUniqueName": "C:\\Users\\ADMIN\\Desktop\\HuyHieu\\Module 2\\JamesExercise\\Bai9.Collection\\Bai9.Collection.csproj",
         "projectName": "Bai9.Collection",
-        "projectPath": "C:\\Users\\ADMIN\\Desktop\\HuyHieu\\Module 2\\Bài tập James\\Bai9.Collection\\Bai9.Collection.csproj",
+        "projectPath": "C:\\Users\\ADMIN\\Desktop\\HuyHieu\\Module 2\\JamesExercise\\Bai9.Collection\\Bai9.Collection.csproj",
         "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ADMIN\\Desktop\\HuyHieu\\Module 2\\Bài tập James\\Bai9.Collection\\obj\\",
+        "outputPath": "C:\\Users\\ADMIN\\Desktop\\HuyHieu\\Module 2\\JamesExercise\\Bai9.Collection\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",

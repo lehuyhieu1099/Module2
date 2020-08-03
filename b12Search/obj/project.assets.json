@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ADMIN\\Desktop\\HuyHieu\\Module 2\\Bài tập James\\b12Search\\Bai12_Searching.csproj",
+      "projectUniqueName": "C:\\Users\\ADMIN\\Desktop\\HuyHieu\\Module 2\\JamesExercise\\b12Search\\Bai12_Searching.csproj",
       "projectName": "Bai12_Searching",
-      "projectPath": "C:\\Users\\ADMIN\\Desktop\\HuyHieu\\Module 2\\Bài tập James\\b12Search\\Bai12_Searching.csproj",
+      "projectPath": "C:\\Users\\ADMIN\\Desktop\\HuyHieu\\Module 2\\JamesExercise\\b12Search\\Bai12_Searching.csproj",
       "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ADMIN\\Desktop\\HuyHieu\\Module 2\\Bài tập James\\b12Search\\obj\\",
+      "outputPath": "C:\\Users\\ADMIN\\Desktop\\HuyHieu\\Module 2\\JamesExercise\\b12Search\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",

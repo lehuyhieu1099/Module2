@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ADMIN\\Desktop\\HuyHieu\\Module 2\\Bài tập James\\Product Management\\Product Management.csproj": {}
+    "C:\\Users\\ADMIN\\Desktop\\HuyHieu\\Module 2\\JamesExercise\\Product Management\\Product Management.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ADMIN\\Desktop\\HuyHieu\\Module 2\\Bài tập James\\Product Management\\Product Management.csproj": {
+    "C:\\Users\\ADMIN\\Desktop\\HuyHieu\\Module 2\\JamesExercise\\Product Management\\Product Management.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ADMIN\\Desktop\\HuyHieu\\Module 2\\Bài tập James\\Product Management\\Product Management.csproj",
+        "projectUniqueName": "C:\\Users\\ADMIN\\Desktop\\HuyHieu\\Module 2\\JamesExercise\\Product Management\\Product Management.csproj",
         "projectName": "Product Management",
-        "projectPath": "C:\\Users\\ADMIN\\Desktop\\HuyHieu\\Module 2\\Bài tập James\\Product Management\\Product Management.csproj",
+        "projectPath": "C:\\Users\\ADMIN\\Desktop\\HuyHieu\\Module 2\\JamesExercise\\Product Management\\Product Management.csproj",
         "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ADMIN\\Desktop\\HuyHieu\\Module 2\\Bài tập James\\Product Management\\obj\\",
+        "outputPath": "C:\\Users\\ADMIN\\Desktop\\HuyHieu\\Module 2\\JamesExercise\\Product Management\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",

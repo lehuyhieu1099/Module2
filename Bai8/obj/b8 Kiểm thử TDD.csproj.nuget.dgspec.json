@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ADMIN\\Desktop\\HuyHieu\\Module 2\\Bài tập James\\Bai8\\b8 Kiểm thử TDD.csproj": {}
+    "C:\\Users\\ADMIN\\Desktop\\HuyHieu\\Module 2\\JamesExercise\\Bai8\\b8 Kiểm thử TDD.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ADMIN\\Desktop\\HuyHieu\\Module 2\\Bài tập James\\bai1\\b1NET Core and C Sharp.csproj": {
+    "C:\\Users\\ADMIN\\Desktop\\HuyHieu\\Module 2\\JamesExercise\\bai1\\b1NET Core and C Sharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ADMIN\\Desktop\\HuyHieu\\Module 2\\Bài tập James\\bai1\\b1NET Core and C Sharp.csproj",
+        "projectUniqueName": "C:\\Users\\ADMIN\\Desktop\\HuyHieu\\Module 2\\JamesExercise\\bai1\\b1NET Core and C Sharp.csproj",
         "projectName": "b1NET Core and C Sharp",
-        "projectPath": "C:\\Users\\ADMIN\\Desktop\\HuyHieu\\Module 2\\Bài tập James\\bai1\\b1NET Core and C Sharp.csproj",
+        "projectPath": "C:\\Users\\ADMIN\\Desktop\\HuyHieu\\Module 2\\JamesExercise\\bai1\\b1NET Core and C Sharp.csproj",
         "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ADMIN\\Desktop\\HuyHieu\\Module 2\\Bài tập James\\bai1\\obj\\",
+        "outputPath": "C:\\Users\\ADMIN\\Desktop\\HuyHieu\\Module 2\\JamesExercise\\bai1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -56,14 +56,14 @@
         }
       }
     },
-    "C:\\Users\\ADMIN\\Desktop\\HuyHieu\\Module 2\\Bài tập James\\Bai8\\b8 Kiểm thử TDD.csproj": {
+    "C:\\Users\\ADMIN\\Desktop\\HuyHieu\\Module 2\\JamesExercise\\Bai8\\b8 Kiểm thử TDD.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ADMIN\\Desktop\\HuyHieu\\Module 2\\Bài tập James\\Bai8\\b8 Kiểm thử TDD.csproj",
+        "projectUniqueName": "C:\\Users\\ADMIN\\Desktop\\HuyHieu\\Module 2\\JamesExercise\\Bai8\\b8 Kiểm thử TDD.csproj",
         "projectName": "b8 Kiểm thử TDD",
-        "projectPath": "C:\\Users\\ADMIN\\Desktop\\HuyHieu\\Module 2\\Bài tập James\\Bai8\\b8 Kiểm thử TDD.csproj",
+        "projectPath": "C:\\Users\\ADMIN\\Desktop\\HuyHieu\\Module 2\\JamesExercise\\Bai8\\b8 Kiểm thử TDD.csproj",
         "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ADMIN\\Desktop\\HuyHieu\\Module 2\\Bài tập James\\Bai8\\obj\\",
+        "outputPath": "C:\\Users\\ADMIN\\Desktop\\HuyHieu\\Module 2\\JamesExercise\\Bai8\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -79,8 +79,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\ADMIN\\Desktop\\HuyHieu\\Module 2\\Bài tập James\\bai1\\b1NET Core and C Sharp.csproj": {
-                "projectPath": "C:\\Users\\ADMIN\\Desktop\\HuyHieu\\Module 2\\Bài tập James\\bai1\\b1NET Core and C Sharp.csproj"
+              "C:\\Users\\ADMIN\\Desktop\\HuyHieu\\Module 2\\JamesExercise\\bai1\\b1NET Core and C Sharp.csproj": {
+                "projectPath": "C:\\Users\\ADMIN\\Desktop\\HuyHieu\\Module 2\\JamesExercise\\bai1\\b1NET Core and C Sharp.csproj"
               }
             }
           }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2rSclhHJH8OCcFIJMlUyehgyChu+m1D2qlNdTIpfDYZ2/7Lr1W3gc2naJKIzOJ/8ZUF+Mgjp5iPzxoYaE0vJig==",
+  "dgSpecHash": "xJGEW0bogiQiIUCfYE0xL47/bp4dNrMYxwCFqULNN+skosly4F6YU5JU67X4jIi9HztAaOqCbtpCOmXEzYSpbA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ADMIN\\Desktop\\HuyHieu\\Module 2\\Bài tập James\\NUnitTest\\NUnitTest.csproj",
+  "projectFilePath": "C:\\Users\\ADMIN\\Desktop\\HuyHieu\\Module 2\\JamesExercise\\NUnitTest\\NUnitTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.codecoverage\\16.4.0\\microsoft.codecoverage.16.4.0.nupkg.sha512",
     "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",

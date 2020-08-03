@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ADMIN\\Desktop\\HuyHieu\\Module 2\\Bài tập James\\bai2\\b2 Array and Method.csproj": {}
+    "C:\\Users\\ADMIN\\Desktop\\HuyHieu\\Module 2\\JamesExercise\\bai2\\b2 Array and Method.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ADMIN\\Desktop\\HuyHieu\\Module 2\\Bài tập James\\bai2\\b2 Array and Method.csproj": {
+    "C:\\Users\\ADMIN\\Desktop\\HuyHieu\\Module 2\\JamesExercise\\bai2\\b2 Array and Method.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ADMIN\\Desktop\\HuyHieu\\Module 2\\Bài tập James\\bai2\\b2 Array and Method.csproj",
+        "projectUniqueName": "C:\\Users\\ADMIN\\Desktop\\HuyHieu\\Module 2\\JamesExercise\\bai2\\b2 Array and Method.csproj",
         "projectName": "b2 Array and Method",
-        "projectPath": "C:\\Users\\ADMIN\\Desktop\\HuyHieu\\Module 2\\Bài tập James\\bai2\\b2 Array and Method.csproj",
+        "projectPath": "C:\\Users\\ADMIN\\Desktop\\HuyHieu\\Module 2\\JamesExercise\\bai2\\b2 Array and Method.csproj",
         "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ADMIN\\Desktop\\HuyHieu\\Module 2\\Bài tập James\\bai2\\obj\\",
+        "outputPath": "C:\\Users\\ADMIN\\Desktop\\HuyHieu\\Module 2\\JamesExercise\\bai2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
